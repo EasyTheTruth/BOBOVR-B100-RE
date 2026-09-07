@@ -96,7 +96,7 @@ Result:
 
 * B100 still woke successfully
 * head strap still powered/charged the headset
-* battery display reported `00%`
+* battery display reported `00%` and error code `01`
 
 This proves pins 3 and 4 are **not required for basic power delivery**.
 
