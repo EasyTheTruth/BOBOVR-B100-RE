@@ -41,7 +41,7 @@ OO      OOO      OO
 
 Pins 1 and 2 measure approximately **0.07 ohm** between each other, strongly indicating they are paralleled power contacts.
 
-Pins 3 and 4 are not required for basic discharge. Insulating both contacts still allows the battery to power the head strap, although the strap reports **00% battery**.
+Pins 3 and 4 are not required for basic discharge. Insulating both contacts still allows the battery to power the head strap, although the strap reports **00% battery** and error code **01**.
 
 Pin 5 is required for wake/presence detection. Insulating pins 3, 4, and 5 prevents the battery from waking.
 
